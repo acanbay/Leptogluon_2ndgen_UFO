@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Leptogluon_2ndgen_UFO: A UFO Model for the Color-Octet Muon"
+authors:
+  - family-names: Canbay
+    given-names: Ali Can
+    orcid: "https://orcid.org/0000-0003-4602-473X"
+  - family-names: Kaya
+    given-names: Umit
+    orcid: "https://orcid.org/0000-0003-0823-3848"
+date-released: "2025-06-16"
+type: software
+keywords:
+  - Leptogluon
+  - color-octet muon
+identifiers:
+  - description: Zenodo release
+    type: doi
+    value: "10.5281/zenodo.15676777"
+message: If you use this software, please cite it using these metadata.
