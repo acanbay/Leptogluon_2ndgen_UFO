@@ -7,4 +7,4 @@ The model is developed using the FeynRules package and exported in the UFO (Univ
 
 ## Model File
 
-[Download **Leptogluon_2ndgen_UFO**](https://github.com/acanbay/Leptogluon_2ndgen_UFO/releases/download/Leptogluon_2ndgen_UFO/Leptogluon_2ndgen_UFO.zip)
+[Download **Leptogluon_2ndgen_UFO**](https://github.com/acanbay/Leptogluon_2ndgen_UFO/releases/tag/Leptogluon_2ndgen_UFO)
