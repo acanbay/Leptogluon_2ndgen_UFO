@@ -13,6 +13,7 @@ keywords:
   - Leptogluon
   - color-octet muon
 identifiers:
-  - type: doi
+  - description: Zenodo release
+    type: doi
     value: "10.5281/zenodo.15676777"
 message: If you use this software, please cite it using these metadata.
