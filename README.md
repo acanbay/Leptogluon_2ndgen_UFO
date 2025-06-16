@@ -1,0 +1,2 @@
+# Leptogluon_2ndgen_UFO
+Leptogluon_2ndgen_UFO
